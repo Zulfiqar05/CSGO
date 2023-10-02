@@ -1,0 +1,211 @@
+* {
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+
+.Main-section {
+    background-color: #222831;
+    background-image: url(./Background-img.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* width: 100%; */
+    height: 100vh;
+}
+
+.Main-section .logo-portion {
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.Main-section .logo-portion button {
+    width: 155px;
+    height: 46px;
+    top: 25px;
+    left: 22px;
+    background-color: #00ADB5;
+    color: aliceblue;
+    border-radius: 15px;
+    margin-top: 25px;
+    margin-left: 22px;
+}
+
+.Main-section .logo-portion img {
+    margin-top: 17px;
+    margin-right: 75px;
+}
+
+.Main-section .second-portion .btn-1 {
+    width: 251px;
+    height: 48px;
+    /* margin-top: 25px; */
+    margin-left: 29px;
+    border-radius: 22px;
+    background-color: #00ADB5;
+    color: aliceblue;
+}
+
+.Main-section .second-portion .btn-2 {
+    width: 155px;
+    height: 46px;
+    /* top: 478px; */
+    margin-left: 37px;
+    border-radius: 15px;
+    background-color: #00ADB5;
+    color: aliceblue;
+    margin-top: 25px;
+}
+
+.Main-section .text h3 {
+    width: 314px;
+    height: 91px;
+    margin-top: 72px;
+    margin-left: 29px;
+    font-family: Inter;
+    font-size: 75px;
+    font-weight: 700;
+    line-height: 91px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #ffffff;
+}
+
+.Main-section .text h2 {
+    width: 598px;
+    height: 91px;
+    /* top: 361px; */
+    margin-left: 29px;
+    font-family: Inter;
+    font-size: 75px;
+    font-weight: 700;
+    line-height: 91px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #ffffff;
+}
+
+
+/********************* Section 2  ****************/
+
+.Main-section-2 {
+    background-color: rgb(43, 41, 41);
+}
+
+.Main-section-2 .sub-main {
+    display: flex;
+}
+.Main-section-2 .sub-main img{
+    margin-left: 150px;
+    margin-top: 26px;
+}
+.shopnoe{
+    display: flex;
+}
+.shopnoe img{
+    margin-top: -200px;
+    margin-left: 50px;  
+}
+.shopnoe .img-2{
+    width: 35%;
+
+}
+
+.Main-section-2 .sub-main h2 {
+    width: 598px;
+    height: 91px;
+    /* top: 361px; */
+    margin-left: 29px;
+    font-family: Inter;
+    font-size: 75px;
+    font-weight: 700;
+    line-height: 91px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #ffffff;
+
+}
+.Main-section-2 .sub-main h3{
+    /* width: 598px; */
+    height: 91px;
+    /* top: 361px; */
+    margin-left: 29px;
+    font-family: Inter;
+    font-size: 75px;
+    font-weight: 700;
+    line-height: 91px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #ffffff;
+}
+.Main-section-2 .sub-main h5{
+    /* width: 598px; */
+    height: 91px;
+    /* top: 361px; */
+    margin-left: 29px;
+    font-family: Inter;
+    font-size: 75px;
+    font-weight: 700;
+    line-height: 91px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #ffffff;
+}
+.Main-section-2 .shop-portion button {
+    width: 258px;
+    height: 63px;
+    top: 1141px;
+    border-radius: 15px;
+    background-color: #00ADB5;
+    margin-left: 61px;
+
+
+}
+
+
+/******************* Section-3 **************** */
+
+.section-3 img{
+    width: 100%;
+}
+
+
+
+.section-4 img{
+width: 100%;
+}
+.section-5 img{
+    width: 100%;
+}
+.contact{
+    /* text-align: center; */
+    background-color: #1F1F29;
+    color: #ffffff;
+}
+.contact h1{
+    font-size: 450%;
+    text-align: center;
+    /* margin-top: 49px; */
+/* height: 91px;
+top: 3795px;
+left: 572px; */
+
+}
+.contact h2{
+    font-size: 350%;
+    margin-top: 49px;
+    text-align: center;
+}
+.contact h3{
+    font-size: 350%;
+    margin-top: 272px;
+    margin-left: 20px;
+}
+.footer{
+    display: flex;
+    justify-content: space-between;
+    color: #ffffff;
+
+    background-color: rgb(43, 41, 41);
+
+}
